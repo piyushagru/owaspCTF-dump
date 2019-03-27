@@ -7,4 +7,4 @@ flag format:   OCTF{all_small_case_seprated_by_underscore}
 	OCTF{coe_13_2021_is_the_best_5695209253024}
 Which one is original present help me find the DIFFERENCES, is their a tool for it??
 
-<img src="logo-reveal.png"   alt="logo" />
+<img src="logo-reveal.png"   alt="love you guys" />
